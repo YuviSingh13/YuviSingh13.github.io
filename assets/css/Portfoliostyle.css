@@ -339,6 +339,7 @@ nav ul li a:hover::after{
 .btn.btn2{
     display: inline-block;
     background: aqua;
+    color: #080808;
 }
 
 .contact-right form{
